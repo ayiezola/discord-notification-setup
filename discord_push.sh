@@ -50,5 +50,5 @@
   sudo chmod +x /usr/local/bin/todiscord
 
 #test notification
-  todiscord --text 'im works!!' 
+  todiscord --text 'Yeah im works!!. You can run me from directory  ~/discord/discord-alert.sh' 
 
