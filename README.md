@@ -15,3 +15,5 @@ Ensure you have prepare your discord key.
 
 # Thanks
 1 - ChaoticWeg for discord.sh
+
+
