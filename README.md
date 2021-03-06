@@ -7,13 +7,13 @@ This script will help you to setup discord notification
 Ensure you have prepare your discord key.
 
 # How to get discord webhook
-## - Open discord
-## - Select your preferred channel
-3 - Click the setting button
-4 - Click edit channel
-5 - On the left side, select integrations
-6 - Click webhook
-7 - Give bot name and generate webhook
+- Open discord
+- Select your preferred channel
+- Click the setting button
+- Click edit channel
+- On the left side, select integrations
+- Click webhook
+- Give bot name and generate webhook
 
 # Thanks
 1 - ChaoticWeg for discord.sh
