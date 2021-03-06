@@ -1,6 +1,8 @@
 # discord-notification-setup
 This script will help you to setup discord notification
 
+https://i.imgur.com/SyeAVSm.png
+
 # Preparations
 Ensure you have prepare your discord key.
 
