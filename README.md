@@ -6,6 +6,10 @@ This script will help you to setup discord notification
 # Preparations
 Ensure you have prepare your discord key.
 
+# Initial information
+- discord_push (This file will setup discord notification for the first time)
+- discord_alert_generate (This file will only generate alert script for you)
+
 # How to get discord webhook
 - Open discord
 - Select your preferred channel
